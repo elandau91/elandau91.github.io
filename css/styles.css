@@ -60,6 +60,10 @@ html {
   background-size: cover;
 }
 
+.portcontainer{
+  text-align: center;
+}
+
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
