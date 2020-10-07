@@ -54,6 +54,12 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.leheader{
+  background-image: url('../assets/img/DSC03026.JPG');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
